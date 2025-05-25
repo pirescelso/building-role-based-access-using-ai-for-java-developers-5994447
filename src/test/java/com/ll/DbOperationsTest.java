@@ -9,7 +9,6 @@ import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 class Employee {
-  private String id;
   private String name;
   private int age;
   private double salary;
